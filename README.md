@@ -1,7 +1,7 @@
 # 📊 Proyecto de Predicción de Churn en Telecomunicaciones
 
 ## 📈 Problema de Negocio
-Una empresa de telecomunicaciones desea **mejorar la retención de sus clientes**, identificando aquellos que tienen más posibilidades de abandonar el servicio (Churn). Este proyecto tiene como objetivo limpiar y preparar un conjunto de datos para el entrenamiento de un modelo de Churn.
+Una empresa de telecomunicaciones desea **mejorar la retención de sus clientes**, identificando aquellos que tienen más posibilidades de abandonar el servicio (Churn). Este proyecto tiene como objetivo limpiar y preparar un conjunto de datos para el entrenamiento de un modelo de Churn. ❓
 
 ## ❓ Preguntas Clave
 - **🔍 Análisis Inicial**: ¿Qué insights podemos obtener del análisis exploratorio inicial del conjunto de datos?
